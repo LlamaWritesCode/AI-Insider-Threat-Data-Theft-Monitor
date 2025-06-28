@@ -1,0 +1,800 @@
+2025-06-28,06:33:21,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,08:56:39,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,17:40:57,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,21:52:48,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Admin.
+2025-06-28,23:41:01,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,22:23:33,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,21:18:41,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,22:13:57,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,21:12:38,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,22:27:08,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,17:24:48,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,22:29:34,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,05:46:55,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,05:07:21,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,07:00:11,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,21:25:01,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,03:02:42,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,05:48:03,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,21:38:13,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,22:24:32,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,03:06:29,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,22:54:56,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,18:25:19,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,22:11:29,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,02:56:39,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,18:40:06,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,22:23:58,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,17:25:46,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,18:43:04,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,22:48:52,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,17:37:32,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,20:23:30,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,03:16:24,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,03:15:15,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,17:40:59,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,05:50:20,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,18:37:38,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,08:35:15,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,21:02:39,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,17:04:36,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,04:51:53,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,20:52:50,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,08:54:40,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,00:37:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,22:43:27,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,22:11:25,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,22:49:17,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,20:34:03,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,06:55:37,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,02:25:30,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,17:30:38,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,22:49:25,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,07:11:17,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,02:59:35,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,17:20:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,21:45:41,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,22:28:10,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,18:08:23,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,06:15:33,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,08:42:32,Information,Security,4663,Object Access,User TempUser accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,07:55:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,07:12:20,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,21:00:51,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,01:18:29,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,17:37:12,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by MLopez.
+2025-06-28,08:21:05,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,00:14:30,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,00:24:39,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,18:46:50,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,05:15:36,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,23:31:47,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,03:52:01,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,18:40:36,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,05:14:45,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,20:24:18,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,00:18:49,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,22:18:15,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,23:32:58,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,02:50:34,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,23:17:36,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,08:38:28,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,02:16:39,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,17:14:37,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,03:03:22,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,07:47:12,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,04:02:30,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by JSmith.
+2025-06-28,04:26:58,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,01:46:27,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,21:17:57,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,06:34:42,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,18:35:14,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,06:23:52,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:05:52,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,17:26:59,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,18:10:16,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,01:44:44,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,02:49:18,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,21:29:27,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:33:59,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,21:54:30,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,00:28:41,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,18:33:06,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,22:52:35,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,19:30:17,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,00:17:21,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,22:13:51,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,07:27:48,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,21:19:41,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,21:51:29,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,21:20:30,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,20:10:47,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,03:49:28,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,01:52:23,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,02:38:13,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,05:20:32,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,02:21:59,Information,Security,4663,Object Access,User TempUser accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,05:47:51,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,05:47:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,04:44:03,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,20:11:18,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,21:01:47,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,02:22:08,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,05:39:44,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by MLopez.
+2025-06-28,08:20:05,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,18:15:59,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,06:26:18,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,20:42:56,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,01:42:37,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:36:56,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,18:00:09,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,23:09:08,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by MLopez.
+2025-06-28,22:59:53,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,21:38:47,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,17:57:44,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,19:50:11,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,03:12:01,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,04:15:54,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,08:14:54,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,19:54:40,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,18:05:52,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,23:32:56,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,00:52:30,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,02:34:43,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,00:58:41,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,00:48:08,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,19:43:02,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,22:12:04,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,02:25:48,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,23:03:25,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,23:26:13,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,19:32:16,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,17:24:24,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,03:19:20,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,01:06:49,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by JSmith.
+2025-06-28,22:03:28,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,19:34:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,20:32:40,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,04:22:12,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,00:39:23,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,20:40:39,Information,Security,4663,Object Access,User TempUser accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,19:36:28,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,02:12:12,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,22:47:21,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,06:17:23,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,08:58:44,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,23:17:36,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,22:47:27,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,17:49:11,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,23:21:42,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,19:24:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,22:56:25,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,18:59:24,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,21:55:24,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,19:57:46,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,02:09:24,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,17:48:59,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,23:02:50,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,17:24:46,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,23:14:37,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,07:41:21,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,23:03:48,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,01:20:42,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,06:43:11,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,05:58:18,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,07:10:55,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,21:41:22,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,18:51:35,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,19:28:46,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,17:49:24,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,06:57:55,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,06:18:46,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,05:23:59,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,18:05:34,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,22:41:36,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,19:48:46,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,07:46:16,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,06:22:02,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,19:37:18,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,22:04:04,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by MLopez.
+2025-06-28,03:56:08,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by MLopez.
+2025-06-28,03:59:30,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,02:15:21,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,18:45:14,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,18:45:01,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,21:44:00,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,22:28:43,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,22:55:08,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by MLopez.
+2025-06-28,07:47:20,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,21:18:00,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,21:26:13,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,00:48:29,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,17:08:43,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,23:35:04,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,20:15:43,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,01:20:12,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,08:18:57,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,01:47:00,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,23:16:19,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,07:31:12,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,00:54:39,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,17:04:29,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,20:48:16,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,23:11:38,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,06:44:03,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,04:38:23,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,17:33:56,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,00:03:35,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,05:14:29,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,22:11:19,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by MLopez.
+2025-06-28,01:47:36,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,20:39:35,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,20:55:33,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,06:30:23,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,03:14:28,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,20:53:13,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,08:52:06,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,04:39:11,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,02:28:11,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,19:52:11,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,18:52:12,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,18:42:31,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,00:50:26,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,04:52:30,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,18:14:38,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,18:54:36,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,21:13:30,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,06:56:32,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,19:31:40,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,00:30:17,Information,Security,4663,Object Access,User Admin accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,21:49:27,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,08:20:09,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,01:05:11,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,22:26:59,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Intern.
+2025-06-28,17:50:13,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by JSmith.
+2025-06-28,22:16:52,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:48:05,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,03:41:37,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,20:46:50,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,23:41:33,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,18:48:50,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,18:43:37,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,05:29:27,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,03:37:34,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,08:05:32,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,22:39:14,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,18:33:10,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,18:38:22,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,02:14:26,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,07:47:54,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,07:23:30,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,21:26:04,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,04:19:23,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,18:19:33,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,21:21:20,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,08:42:43,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,07:10:43,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,22:47:35,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,08:54:14,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,21:02:23,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,21:32:24,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,02:21:35,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,21:40:16,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,01:17:36,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,23:01:07,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,17:01:16,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,19:41:48,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,23:24:26,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,22:12:02,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,21:35:19,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,05:16:04,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,21:06:17,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,07:51:41,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,22:11:46,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,17:51:01,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,20:35:19,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,20:39:29,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,18:33:18,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,03:00:33,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,21:27:32,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,03:04:41,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,17:13:47,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,23:47:56,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,20:22:26,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,08:00:54,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,06:54:02,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,22:08:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,08:10:34,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,21:20:24,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,19:15:02,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,17:54:45,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,17:46:45,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,18:25:06,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,06:39:22,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,17:53:08,Information,Security,4663,Object Access,User Admin accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,04:06:17,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by MLopez.
+2025-06-28,06:53:03,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,23:12:41,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,06:35:38,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,18:53:39,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,01:19:25,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,06:59:00,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,19:39:41,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,02:44:59,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,04:47:17,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,22:40:06,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,03:03:27,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,20:15:00,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,18:10:46,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,20:27:14,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Admin.
+2025-06-28,04:40:33,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,05:07:25,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,01:23:18,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,00:02:13,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,02:11:17,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Intern.
+2025-06-28,08:33:26,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,17:06:58,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,21:09:05,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,19:37:58,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,18:38:55,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,22:46:15,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,20:06:25,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,23:10:38,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,19:43:44,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,21:35:24,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,07:40:57,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,21:16:34,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,22:33:58,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,22:27:56,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,02:35:35,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by MLopez.
+2025-06-28,00:20:57,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by JSmith.
+2025-06-28,02:28:46,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,02:07:32,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,02:31:29,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,21:32:55,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,22:10:25,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,03:08:01,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:07:18,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,04:24:03,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,21:31:27,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,23:01:48,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,02:33:04,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,02:10:49,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,17:33:54,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,04:50:02,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,05:18:53,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,17:25:46,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,21:51:00,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by JSmith.
+2025-06-28,03:44:43,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by MLopez.
+2025-06-28,01:24:58,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,20:12:56,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,20:14:44,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,21:35:22,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,04:29:51,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,06:12:01,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,07:02:11,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Admin.
+2025-06-28,20:39:10,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,17:31:53,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,17:36:07,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,07:02:29,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,04:00:02,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,07:32:14,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,22:16:35,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,19:25:13,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:31:37,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,06:12:39,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,04:36:14,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,06:29:15,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,23:16:51,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,03:34:11,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,22:35:20,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,05:39:47,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,00:20:48,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,19:43:06,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,20:39:42,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,08:18:29,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,00:48:35,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,06:58:56,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,21:09:35,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,07:00:34,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,04:01:23,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,20:21:15,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,20:33:43,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,02:05:04,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,01:08:27,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,23:53:12,Information,Security,4663,Object Access,User Intern accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,22:54:06,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,19:54:06,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,18:00:24,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,06:47:27,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,17:53:54,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,07:58:14,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,18:15:30,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,19:10:36,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,02:35:50,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,18:17:04,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,18:16:17,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,19:26:42,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,04:20:26,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,02:30:01,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,08:44:03,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,19:38:37,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,22:43:43,Information,Security,4663,Object Access,User TempUser accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,01:53:24,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,23:56:26,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,17:34:25,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,05:54:50,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,18:43:18,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,04:12:41,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,01:26:54,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,05:21:21,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,22:56:49,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,22:44:04,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,07:10:55,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,23:00:31,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,22:17:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,22:09:42,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,07:12:25,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,17:53:03,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,07:23:23,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,22:12:31,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,23:41:08,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,00:18:00,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,08:51:47,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,02:43:24,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,04:53:10,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,04:29:24,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,23:31:18,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,20:52:27,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,01:26:30,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,17:28:49,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,22:54:31,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,21:56:04,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,21:55:41,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,17:54:02,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,20:36:24,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,19:45:41,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,00:52:11,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,18:22:48,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,23:47:01,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,18:47:04,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,21:21:17,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,06:57:20,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,00:04:22,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,22:31:20,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,02:13:53,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,17:23:26,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,20:12:51,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,00:04:12,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,20:34:49,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,06:20:20,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,22:32:30,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,06:55:53,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,23:03:10,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,23:58:02,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,17:55:38,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by MLopez.
+2025-06-28,01:25:08,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,03:00:03,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,20:27:02,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,23:47:21,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,00:42:37,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,01:46:48,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,07:20:37,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,17:30:31,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,00:05:35,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,19:18:20,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,03:02:30,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,00:44:02,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,03:34:20,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,21:41:03,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,08:11:34,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Intern.
+2025-06-28,20:21:09,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,18:44:11,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,07:55:09,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Admin.
+2025-06-28,20:45:34,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,19:34:56,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,21:26:25,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,04:07:22,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Intern.
+2025-06-28,06:33:22,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,08:59:00,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,17:54:32,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,07:46:25,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,20:40:28,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,18:36:19,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,08:50:32,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,23:00:06,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,02:00:11,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,07:10:26,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,08:31:13,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,17:27:34,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,23:40:17,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,01:57:04,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,00:34:04,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,22:52:49,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,03:31:54,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Intern.
+2025-06-28,08:11:47,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,18:47:20,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,23:48:05,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,07:51:46,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Admin.
+2025-06-28,06:28:58,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,22:10:29,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,18:29:50,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,07:57:59,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,03:50:36,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,23:18:39,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,17:56:53,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,17:56:13,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:00:54,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,23:54:28,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,00:26:37,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,02:32:56,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,19:13:39,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,23:59:07,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,08:53:14,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,02:17:37,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,00:16:45,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,08:21:06,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,05:48:24,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,22:44:18,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,05:14:57,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,17:27:19,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,23:24:02,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,03:59:11,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,19:42:45,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,23:26:32,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,00:49:58,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,19:03:47,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,04:19:47,Information,Security,4663,Object Access,User Intern accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,22:07:13,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,19:16:02,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,01:10:51,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,03:28:44,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by MLopez.
+2025-06-28,06:41:53,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,20:08:25,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,02:36:57,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,22:21:34,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,05:41:51,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,02:21:11,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,01:36:28,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,04:05:21,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,03:23:07,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,23:06:14,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,02:44:30,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,01:27:35,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Intern.
+2025-06-28,03:58:37,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,04:53:16,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by JSmith.
+2025-06-28,07:39:58,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,19:56:21,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,05:24:16,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,23:22:28,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,06:41:22,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,21:51:43,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,22:55:43,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,06:37:29,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by JSmith.
+2025-06-28,01:51:22,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,23:15:19,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,01:44:35,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,02:55:16,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,19:59:27,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:19:33,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Intern.
+2025-06-28,20:07:41,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,22:29:59,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,06:35:13,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,17:14:49,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,17:30:39,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,23:50:07,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,18:35:01,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,08:32:47,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,17:19:44,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,19:19:22,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,20:34:16,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,23:26:46,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,08:59:24,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,04:16:51,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,19:20:26,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,02:07:38,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,08:11:25,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,23:31:29,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,02:42:17,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,17:28:19,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,05:37:22,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,08:42:35,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,06:31:06,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by JSmith.
+2025-06-28,17:48:53,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,17:17:19,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,17:00:25,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,00:05:25,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,18:29:19,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,03:09:34,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,19:51:53,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,04:25:53,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,22:19:39,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,19:47:49,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Admin.
+2025-06-28,19:59:36,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,18:23:57,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,08:07:25,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,04:07:50,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,02:34:48,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,08:02:32,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,21:24:13,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,22:22:08,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,07:30:03,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,01:11:59,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,02:15:22,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,01:55:37,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,00:07:19,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,08:48:55,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,17:01:39,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,06:31:56,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,18:25:53,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,18:55:37,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,20:12:03,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,22:46:53,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,20:19:34,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,08:14:58,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,21:22:36,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,19:32:25,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,21:45:48,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,00:42:47,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,08:14:43,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,19:52:40,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,21:36:39,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,22:21:19,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,23:55:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Intern.
+2025-06-28,01:36:25,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,21:39:42,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Intern.
+2025-06-28,03:10:23,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,08:34:19,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,20:15:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,00:53:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,04:14:17,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,02:22:07,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,17:20:11,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,21:56:25,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,22:23:50,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by TempUser.
+2025-06-28,07:22:12,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,19:37:56,Information,Security,4663,Object Access,User Intern accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,21:21:44,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,06:40:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,20:10:40,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,18:37:32,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,03:50:51,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,18:55:15,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by MLopez.
+2025-06-28,22:05:21,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Admin.
+2025-06-28,20:11:30,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,03:55:49,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by JSmith.
+2025-06-28,03:43:09,Information,Security,4663,Object Access,User TempUser accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,22:08:03,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,03:01:52,Information,Security,4663,Object Access,User TempUser accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,08:45:12,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,01:29:48,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,17:27:40,Information,Security,4663,Object Access,User JSmith accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,19:54:40,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,17:35:24,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,20:05:00,Information,Security,4663,Object Access,User Intern accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,04:42:03,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,17:05:38,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,04:55:03,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,19:22:47,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,21:26:35,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,05:53:13,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,17:12:43,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,00:09:30,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by MLopez.
+2025-06-28,18:40:18,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,17:50:23,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,17:41:22,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,23:34:20,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,22:18:59,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,07:40:53,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,21:15:45,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,20:36:42,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,07:30:39,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,18:57:33,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,22:39:42,Information,Security,4663,Object Access,User MLopez accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,03:02:13,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,18:04:02,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,19:29:42,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,17:22:06,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,21:09:47,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,08:00:22,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,19:48:32,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,17:39:55,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,04:13:10,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by TempUser.
+2025-06-28,21:20:10,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,01:23:06,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,08:13:57,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.
+2025-06-28,18:24:47,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,03:51:59,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,17:21:25,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,22:32:55,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,23:38:44,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,20:32:15,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,06:31:32,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,00:24:33,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,03:18:43,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,23:13:32,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,04:32:30,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by MLopez.
+2025-06-28,05:50:26,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,06:36:22,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,22:39:06,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,08:52:59,Information,Security,4663,Object Access,User Intern accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,04:36:48,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,23:26:58,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,00:25:20,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,22:58:21,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,22:05:22,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,20:44:36,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,20:03:20,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,01:30:08,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,20:57:58,Information,Security,4663,Object Access,User TempUser accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,18:09:14,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,05:06:46,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,01:25:06,Information,Security,4663,Object Access,User TempUser accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,05:58:56,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,00:49:28,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,19:12:35,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,19:03:07,Information,Security,4663,Object Access,User JSmith accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,20:24:15,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,18:55:06,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Admin.
+2025-06-28,04:15:37,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,20:39:56,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,03:47:36,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,17:49:12,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,04:05:54,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,01:11:51,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,02:22:07,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,02:22:28,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.
+2025-06-28,20:03:46,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,22:09:22,Information,Security,4663,Object Access,User Intern accessed sensitive file: C:\HR\EmployeeData.xlsx.
+2025-06-28,07:06:26,Error,Security,4740,Account Lockout,A user account was locked out. Account: TempUser.
+2025-06-28,08:25:08,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,20:32:33,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,06:44:42,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,21:50:40,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,04:42:49,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,07:12:44,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.25 by Intern.
+2025-06-28,23:03:39,Information,Security,4663,Object Access,User Admin accessed sensitive file: C:\Finance\Q3_Budget.xlsx.
+2025-06-28,02:50:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,06:34:59,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,07:00:43,Information,Security,4624,Logon,A logon was successfully performed. User: TempUser.
+2025-06-28,08:59:56,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,20:34:46,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,17:22:19,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,03:22:29,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,01:48:14,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user JSmith.
+2025-06-28,04:07:44,Warning,Security,4625,Failed Logon,An account failed to log on. Account: TempUser.
+2025-06-28,17:42:15,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,02:18:47,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,05:56:09,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,20:43:27,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,18:42:48,Warning,Security,4625,Failed Logon,An account failed to log on. Account: JSmith.
+2025-06-28,22:19:57,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Intern.
+2025-06-28,08:58:32,Warning,Security,4625,Failed Logon,An account failed to log on. Account: MLopez.
+2025-06-28,04:11:35,Error,Security,4740,Account Lockout,A user account was locked out. Account: MLopez.
+2025-06-28,01:11:03,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,18:56:11,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,06:18:25,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user TempUser.
+2025-06-28,23:15:23,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,20:25:23,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by Intern.
+2025-06-28,20:48:42,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,18:41:14,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Admin.
+2025-06-28,03:57:22,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Intern.
+2025-06-28,19:11:15,Warning,Security,4625,Failed Logon,An account failed to log on. Account: Admin.
+2025-06-28,01:30:25,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,21:49:29,Error,Security,4740,Account Lockout,A user account was locked out. Account: Admin.
+2025-06-28,01:33:52,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,22:15:44,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,19:07:34,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.15 by TempUser.
+2025-06-28,17:12:01,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by Admin.
+2025-06-28,19:35:54,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,05:19:40,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:07:25,Warning,Security,4688,Process Creation,User MLopez launched a suspicious process.
+2025-06-28,00:50:39,Warning,Security,4688,Process Creation,User JSmith launched a suspicious process.
+2025-06-28,17:47:59,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,23:14:16,Warning,Security,4688,Process Creation,User Admin launched a suspicious process.
+2025-06-28,22:13:48,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-28,18:12:00,Warning,Security,4688,Process Creation,User TempUser launched a suspicious process.
+2025-06-28,17:23:24,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:17:42,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-28,17:09:24,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,18:41:41,Information,Security,4663,Object Access,User Intern accessed sensitive file: \\Server\Legal\Client_Acquisition.docx.
