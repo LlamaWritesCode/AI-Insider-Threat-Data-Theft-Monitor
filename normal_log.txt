@@ -1,4 +1,3 @@
-Date,Time,LogLevel,Source,EventID,TaskCategory,Message
 2025-06-28,08:00:12,Information,Security,4624,Logon,User JohnDoe logged on successfully.
 2025-06-28,08:01:03,Information,Security,4672,Special Logon,Special privileges assigned to new logon. User: JohnDoe.
 2025-06-28,08:05:15,Information,Security,4663,Object Access,User JohnDoe opened Outlook to check emails.
