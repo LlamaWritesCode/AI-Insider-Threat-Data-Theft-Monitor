@@ -1,0 +1,14 @@
+Date,Time,LogLevel,Source,EventID,TaskCategory,Message
+2025-06-27,08:00:00,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-27,08:05:15,Information,Security,4634,Logoff,A user logged off. User: JSmith.
+2025-06-27,08:10:30,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-27,08:15:45,Information,Security,4663,Object Access,User MLopez accessed file: \\Server\Finance\Budget.xlsx.
+2025-06-27,08:20:50,Information,Security,4663,Object Access,User MLopez accessed file: \\Server\HR\EmployeeData.xlsx.
+2025-06-27,08:25:00,Information,Security,4672,Special Logon,Special privileges assigned to new logon. User: JSmith.
+2025-06-27,08:30:10,Information,Security,4634,Logoff,User MLopez logged off.
+2025-06-27,08:35:20,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-27,08:40:30,Information,Security,4663,Object Access,User JSmith accessed file: \\Server\Legal\Client_Acquisition.docx.
+2025-06-27,08:45:40,Information,Security,4634,Logoff,User JSmith logged off.
+2025-06-27,08:50:50,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-27,08:55:00,Information,Security,4663,Object Access,User MLopez accessed file: \\Server\Marketing\CampaignPlan.xlsx.
+2025-06-27,09:00:10,Information,Security,4634,Logoff,User MLopez logged off.

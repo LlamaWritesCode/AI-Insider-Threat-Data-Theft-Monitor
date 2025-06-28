@@ -1,0 +1,5 @@
+LineId,Date,Time,Level,Component,Content,EventId,EventTemplate
+1,2023-11-15,23:45:30,Warning,Security,"User 'jsmith' accessed '\\fileserver\confidential\project_alpha.xlsx' (Action: Read; Result: Success)",4663,"User '<*>' accessed '<*>' (Action: <*>; Result: <*>)"
+2,2023-11-15,23:46:12,Warning,Security,"User 'jsmith' copied 2.4GB to USB device (Serial: XYZ123; Manufacturer: SanDisk)",6416,"User '<*>' copied <*> to USB device (Serial: <*>; Manufacturer: <*>)"
+3,2023-11-16,02:15:45,Warning,Security,"Failed logon attempt for 'jsmith' from IP 185.143.223.47 (Reason: Unknown account)",4625,"Failed logon attempt for '<*>' from IP <*> (Reason: <*>)"
+4,2023-11-16,02:18:22,Warning,Security,"User 'jsmith' accessed HR files without authorization (Files: \\fileserver\hr\salarie

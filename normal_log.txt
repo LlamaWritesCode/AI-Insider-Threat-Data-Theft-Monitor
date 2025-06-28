@@ -1,0 +1,13 @@
+Date,Time,LogLevel,Source,EventID,TaskCategory,Message
+2025-06-28,08:00:12,Information,Security,4624,Logon,User JohnDoe logged on successfully.
+2025-06-28,08:01:03,Information,Security,4672,Special Logon,Special privileges assigned to new logon. User: JohnDoe.
+2025-06-28,08:05:15,Information,Security,4663,Object Access,User JohnDoe opened Outlook to check emails.
+2025-06-28,08:15:42,Information,Security,4663,Object Access,User JohnDoe accessed project document: \\Server\Projects\Q3_Report.docx.
+2025-06-28,09:02:17,Information,Security,4663,Object Access,User JohnDoe edited project spreadsheet: \\Server\Projects\Q3_Budget.xlsx.
+2025-06-28,10:20:44,Information,Security,4663,Object Access,User JohnDoe accessed team calendar.
+2025-06-28,12:00:05,Information,Security,4634,Logoff,User JohnDoe logged off for lunch.
+2025-06-28,13:00:12,Information,Security,4624,Logon,User JohnDoe logged back in after lunch.
+2025-06-28,13:02:50,Information,Security,4663,Object Access,User JohnDoe resumed editing Q3_Report.docx.
+2025-06-28,14:18:27,Information,Security,4663,Object Access,User JohnDoe accessed HR policy document: \\Server\HR\LeavePolicy.pdf.
+2025-06-28,15:30:42,Information,Security,4663,Object Access,User JohnDoe saved updates to \\Server\Projects\Q3_Report.docx.
+2025-06-28,16:45:09,Information,Security,4634,Logoff,User JohnDoe logged off and ended session.

