@@ -1,0 +1,14 @@
+
+# Core IBM Watson AI dependencies
+langchain_ibm
+ibm-watsonx-ai
+langchain-core
+langgraph
+
+# Web framework and data processing
+streamlit
+pandas
+
+# HTTP requests and development
+requests
+ipython

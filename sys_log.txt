@@ -1,0 +1,210 @@
+2025-06-28,00:10:22,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:42:35,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,01:05:11,Information,Security,4663,File Access,File accessed: C:\Projects\Q2_Plans.docx by JSmith.
+2025-06-28,01:38:29,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,02:14:56,Information,Security,4663,File Access,File accessed: C:\HR\EmployeeRoster.xlsx by MLopez.
+2025-06-28,02:49:23,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:22:15,Information,Security,4663,File Access,File accessed: C:\Finance\Budget2025.xlsx by Intern.
+2025-06-28,04:05:48,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:35:12,Information,Security,4663,File Access,File accessed: C:\Engineering\DesignV2.pdf by Admin.
+2025-06-28,05:02:39,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,05:37:17,Information,Security,4663,File Access,File accessed: C:\Marketing\CampaignOutline.pptx by MLopez.
+2025-06-28,06:10:52,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:42:01,Information,Security,4663,File Access,File accessed: C:\Projects\PrototypeDraft.docx by JSmith.
+2025-06-28,07:15:19,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:48:27,Information,Security,4663,File Access,File accessed: C:\HR\Policy2025.docx by Intern.
+2025-06-28,08:20:42,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:53:36,Information,Security,4663,File Access,File accessed: C:\Finance\Forecast.xlsx by Admin.
+2025-06-28,09:25:04,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,09:57:58,Information,Security,4663,File Access,File accessed: C:\Engineering\Specs_Rev1.pdf by MLopez.
+2025-06-28,10:31:15,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,11:05:47,Information,Security,4663,File Access,File accessed: C:\Projects\Q3_Plans.pptx by JSmith.
+2025-06-28,11:38:19,Warning,Security,4688,Process Creation,User Intern launched an unusual script.
+2025-06-28,12:12:43,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,12:44:56,Information,Security,4663,File Access,File accessed: C:\Finance\Payroll2025.xlsx by Admin.
+2025-06-28,13:19:21,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,13:53:08,Information,Security,4663,File Access,File accessed: C:\Marketing\Q4_Strategy.docx by MLopez.
+2025-06-28,14:25:44,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,14:59:31,Information,Security,4663,File Access,File accessed: C:\Engineering\Blueprint.pdf by JSmith.
+2025-06-28,15:33:02,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,16:05:49,Information,Security,4663,File Access,File accessed: C:\HR\BenefitsGuide.pdf by Intern.
+2025-06-28,00:07:14,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:39:50,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,01:12:33,Information,Security,4663,File Access,File accessed: C:\Engineering\Drawings.pdf by MLopez.
+2025-06-28,01:45:02,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,02:19:27,Information,Security,4663,File Access,File accessed: C:\Finance\Invoices.xlsx by JSmith.
+2025-06-28,02:52:41,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:25:08,Information,Security,4663,File Access,File accessed: C:\HR\Handbook.docx by Intern.
+2025-06-28,03:58:37,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:31:15,Information,Security,4663,File Access,File accessed: C:\Projects\Timeline.pptx by Admin.
+2025-06-28,05:03:24,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,05:36:48,Information,Security,4663,File Access,File accessed: C:\Engineering\SpecV3.pdf by MLopez.
+2025-06-28,06:08:10,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:42:29,Information,Security,4663,File Access,File accessed: C:\Finance\Budget2025.xlsx by JSmith.
+2025-06-28,07:14:53,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:47:20,Information,Security,4663,File Access,File accessed: C:\HR\Policy.docx by Intern.
+2025-06-28,08:20:03,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:53:29,Information,Security,4663,File Access,File accessed: C:\Finance\Forecast2025.xlsx by Admin.
+2025-06-28,09:26:11,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,09:58:44,Information,Security,4663,File Access,File accessed: C:\Engineering\Plans.pdf by MLopez.
+2025-06-28,10:31:02,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,11:03:35,Information,Security,4663,File Access,File accessed: C:\Projects\Prototype.pptx by JSmith.
+2025-06-28,11:37:09,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,12:10:42,Warning,Security,4688,Process Creation,User Intern launched an unusual process.
+2025-06-28,12:43:17,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,13:15:51,Information,Security,4663,File Access,File accessed: C:\Finance\Reports.docx by Admin.
+2025-06-28,13:48:27,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,14:21:02,Information,Security,4663,File Access,File accessed: C:\Marketing\Strategy2025.pptx by MLopez.
+2025-06-28,14:53:33,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,15:26:07,Information,Security,4663,File Access,File accessed: C:\Engineering\Revision.pdf by JSmith.
+2025-06-28,15:58:39,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,00:11:03,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:43:29,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,01:16:18,Information,Security,4663,File Access,File accessed: C:\Projects\DraftPlan.docx by JSmith.
+2025-06-28,01:48:52,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,02:20:33,Information,Security,4663,File Access,File accessed: C:\Finance\Payroll.xlsx by MLopez.
+2025-06-28,02:53:07,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:25:39,Information,Security,4663,File Access,File accessed: C:\HR\Handbook.docx by Intern.
+2025-06-28,03:58:12,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:30:46,Information,Security,4663,File Access,File accessed: C:\Engineering\SpecSheet.pdf by Admin.
+2025-06-28,05:03:25,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,05:36:58,Information,Security,4663,File Access,File accessed: C:\Marketing\Campaign2025.pptx by MLopez.
+2025-06-28,06:09:31,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:42:04,Information,Security,4663,File Access,File accessed: C:\Projects\Prototype.docx by JSmith.
+2025-06-28,07:14:37,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:47:11,Information,Security,4663,File Access,File accessed: C:\HR\EmployeeList.xlsx by Intern.
+2025-06-28,08:19:45,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:52:19,Information,Security,4663,File Access,File accessed: C:\Finance\Budget2025.xlsx by Admin.
+2025-06-28,09:24:53,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,09:57:27,Information,Security,4663,File Access,File accessed: C:\Engineering\Drawings.pdf by MLopez.
+2025-06-28,10:29:59,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,11:02:34,Information,Security,4663,File Access,File accessed: C:\Projects\Q4_Plans.pptx by JSmith.
+2025-06-28,11:35:07,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,12:07:41,Warning,Security,4688,Process Creation,User Intern launched an unusual script.
+2025-06-28,12:40:15,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,13:12:48,Information,Security,4663,File Access,File accessed: C:\Finance\Summary2025.xlsx by Admin.
+2025-06-28,13:45:22,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,14:17:56,Information,Security,4663,File Access,File accessed: C:\Marketing\Strategy.docx by MLopez.
+2025-06-28,14:50:30,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,15:23:03,Information,Security,4663,File Access,File accessed: C:\Engineering\Specs.pdf by JSmith.
+2025-06-28,15:55:37,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,00:09:02,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:41:36,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,01:14:10,Information,Security,4663,File Access,File accessed: C:\Finance\Invoices2025.xlsx by JSmith.
+2025-06-28,01:46:44,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,02:19:18,Information,Security,4663,File Access,File accessed: C:\Engineering\SpecSheet.pdf by MLopez.
+2025-06-28,02:51:52,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:24:26,Information,Security,4663,File Access,File accessed: C:\HR\EmployeeGuide.docx by Intern.
+2025-06-28,03:56:59,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:29:33,Information,Security,4663,File Access,File accessed: C:\Projects\Roadmap2025.pptx by Admin.
+2025-06-28,05:02:07,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,05:34:41,Information,Security,4663,File Access,File accessed: C:\Marketing\CampaignOutline.docx by MLopez.
+2025-06-28,06:07:15,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:39:49,Information,Security,4663,File Access,File accessed: C:\Projects\PrototypeDesign.docx by JSmith.
+2025-06-28,07:12:23,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:44:57,Information,Security,4663,File Access,File accessed: C:\HR\BenefitsSummary.pdf by Intern.
+2025-06-28,08:17:31,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:50:05,Information,Security,4663,File Access,File accessed: C:\Finance\BudgetQ3.xlsx by Admin.
+2025-06-28,09:22:39,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,09:55:13,Information,Security,4663,File Access,File accessed: C:\Engineering\DraftPlans.pdf by MLopez.
+2025-06-28,10:27:47,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,11:00:21,Information,Security,4663,File Access,File accessed: C:\Projects\Presentation.pptx by JSmith.
+2025-06-28,11:32:55,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,12:05:29,Information,Security,4663,File Access,File accessed: C:\HR\PolicyUpdate.docx by Intern.
+2025-06-28,12:38:03,Warning,Security,4688,Process Creation,User Intern launched an unusual PowerShell script.
+2025-06-28,13:10:37,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,13:43:11,Information,Security,4663,File Access,File accessed: C:\Finance\Forecast2025.xlsx by Admin.
+2025-06-28,14:15:45,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,14:48:19,Information,Security,4663,File Access,File accessed: C:\Marketing\Plans2025.docx by MLopez.
+2025-06-28,15:20:53,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,15:53:27,Information,Security,4663,File Access,File accessed: C:\Engineering\Blueprints.pdf by JSmith.
+2025-06-28,00:08:44,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:40:19,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,01:11:55,Information,Security,4663,File Access,File accessed: C:\Engineering\Specs2025.pdf by MLopez.
+2025-06-28,01:43:30,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,02:15:06,Information,Security,4663,File Access,File accessed: C:\Finance\PayrollQ2.xlsx by JSmith.
+2025-06-28,02:46:41,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:18:17,Information,Security,4663,File Access,File accessed: C:\HR\EmployeeHandbook.docx by Intern.
+2025-06-28,03:49:52,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:21:28,Information,Security,4663,File Access,File accessed: C:\Projects\Q4Timeline.pptx by Admin.
+2025-06-28,04:53:03,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,05:24:39,Information,Security,4663,File Access,File accessed: C:\Marketing\CampaignDraft.docx by MLopez.
+2025-06-28,05:56:14,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:27:50,Information,Security,4663,File Access,File accessed: C:\Projects\Prototype2025.docx by JSmith.
+2025-06-28,06:59:25,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:31:01,Information,Security,4663,File Access,File accessed: C:\HR\BenefitsGuide.pdf by Intern.
+2025-06-28,08:02:36,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:34:12,Information,Security,4663,File Access,File accessed: C:\Finance\AnnualBudget.xlsx by Admin.
+2025-06-28,09:05:47,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,09:37:23,Information,Security,4663,File Access,File accessed: C:\Engineering\Drawings2025.pdf by MLopez.
+2025-06-28,10:08:58,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,10:40:34,Information,Security,4663,File Access,File accessed: C:\Projects\Presentation.pptx by JSmith.
+2025-06-28,11:12:09,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,11:43:45,Warning,Security,4688,Process Creation,User Intern launched an unusual script.
+2025-06-28,12:15:20,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,12:46:56,Information,Security,4663,File Access,File accessed: C:\Finance\QuarterlyReport.xlsx by Admin.
+2025-06-28,13:18:31,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,13:50:07,Information,Security,4663,File Access,File accessed: C:\Marketing\Strategy2025.docx by MLopez.
+2025-06-28,14:21:42,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,14:53:18,Information,Security,4663,File Access,File accessed: C:\Engineering\Blueprints.pdf by JSmith.
+2025-06-28,15:24:53,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,00:06:15,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:37:48,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,01:09:21,Information,Security,4663,File Access,File accessed: C:\Finance\RevenueReport.xlsx by JSmith.
+2025-06-28,01:40:55,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,02:12:28,Information,Security,4663,File Access,File accessed: C:\Engineering\SpecsQ2.pdf by MLopez.
+2025-06-28,02:44:02,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:15:35,Information,Security,4663,File Access,File accessed: C:\HR\EmployeeList.docx by Intern.
+2025-06-28,03:47:09,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:18:42,Information,Security,4663,File Access,File accessed: C:\Projects\Roadmap.pptx by Admin.
+2025-06-28,04:50:16,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,05:21:49,Information,Security,4663,File Access,File accessed: C:\Marketing\Plan2025.docx by MLopez.
+2025-06-28,05:53:23,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:24:56,Information,Security,4663,File Access,File accessed: C:\Projects\PrototypeDraft.docx by JSmith.
+2025-06-28,06:56:30,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:28:03,Information,Security,4663,File Access,File accessed: C:\HR\BenefitsOverview.pdf by Intern.
+2025-06-28,07:59:37,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:31:10,Information,Security,4663,File Access,File accessed: C:\Finance\Forecast.xlsx by Admin.
+2025-06-28,09:02:44,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,09:34:17,Information,Security,4663,File Access,File accessed: C:\Engineering\Drawings.pdf by MLopez.
+2025-06-28,10:05:51,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,10:37:24,Information,Security,4663,File Access,File accessed: C:\Projects\Presentation2025.pptx by JSmith.
+2025-06-28,11:08:58,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,11:40:31,Warning,Security,4688,Process Creation,User Intern launched an unusual process.
+2025-06-28,12:12:05,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,12:43:38,Information,Security,4663,File Access,File accessed: C:\Finance\YearEndReport.xlsx by Admin.
+2025-06-28,13:15:12,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,13:46:45,Information,Security,4663,File Access,File accessed: C:\Marketing\Strategy2025.docx by MLopez.
+2025-06-28,14:18:19,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,14:49:52,Information,Security,4663,File Access,File accessed: C:\Engineering\Blueprints.pdf by JSmith.
+2025-06-28,15:21:26,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,00:05:44,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:37:18,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,01:08:52,Information,Security,4663,File Access,File accessed: C:\Finance\Invoices2025.xlsx by JSmith.
+2025-06-28,01:40:27,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,02:11:01,Information,Security,4663,File Access,File accessed: C:\Engineering\SpecsQ2.pdf by MLopez.
+2025-06-28,02:42:35,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,03:14:10,Information,Security,4663,File Access,File accessed: C:\HR\EmployeeHandbook.docx by Intern.
+2025-06-28,03:45:44,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,04:17:19,Information,Security,4663,File Access,File accessed: C:\Projects\Roadmap2025.pptx by Admin.
+2025-06-28,04:48:53,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,05:20:27,Information,Security,4663,File Access,File accessed: C:\Marketing\CampaignOutline.docx by MLopez.
+2025-06-28,05:52:02,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:23:36,Information,Security,4663,File Access,File accessed: C:\Projects\PrototypeDesign.docx by JSmith.
+2025-06-28,06:55:11,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,07:26:45,Information,Security,4663,File Access,File accessed: C:\HR\BenefitsSummary.pdf by Intern.
+2025-06-28,07:58:19,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,08:29:54,Information,Security,4663,File Access,File accessed: C:\Finance\Budget2025.xlsx by Admin.
+2025-06-28,09:01:28,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,09:33:02,Information,Security,4663,File Access,File accessed: C:\Engineering\Drawings.pdf by MLopez.
+2025-06-28,10:04:37,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,10:36:11,Information,Security,4663,File Access,File accessed: C:\Projects\Presentation.pptx by JSmith.
+2025-06-28,11:07:46,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,11:39:20,Warning,Security,4688,Process Creation,User Intern launched an unusual PowerShell script.
+2025-06-28,12:10:54,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,12:42:29,Information,Security,4663,File Access,File accessed: C:\Finance\YearEndReport.xlsx by Admin.
+2025-06-28,13:14:03,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,13:45:38,Information,Security,4663,File Access,File accessed: C:\Marketing\Strategy2025.docx by MLopez.
+2025-06-28,14:17:12,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,14:48:46,Information,Security,4663,File Access,File accessed: C:\Engineering\Blueprints.pdf by JSmith.
+2025-06-28,15:20:21,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
