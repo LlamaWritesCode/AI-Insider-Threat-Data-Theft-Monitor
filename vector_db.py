@@ -211,7 +211,7 @@ if __name__ == "__main__":
         print("\n\n")
         print("######## ❌DETECTING AN UNUSUAL LOG ########")
         
-        contexts = search_index(index, embeddings, "anomalies3.txt")
+        contexts = search_index(index, embeddings, "anomalies_anonymized.txt")
         
 
    

@@ -1,0 +1,11 @@
+Date,Time,LogLevel,Source,EventID,TaskCategory,Message
+2025-06-27,22:00:00,Information,Security,4672,Special Logon,Special privileges assigned to user SYS_OP_04.
+2025-06-27,22:07:47,Error,Security,4688,Process Creation,Suspicious process created: 7zip.exe to compress files.
+2025-06-27,22:10:44,Critical,User Management,4624,Logon,User USER_019 successfully logged in.
+2025-06-27,22:24:24,Information,User Management,4663,Object Access,Access attempt on file: /data/IT/system_config.conf.
+2025-06-27,22:05:32,Warning,Network,1102,Audit Log Cleared,Audit log cleared by user TEMP_ADMIN_3.
+2025-06-27,22:07:10,Information,Network,4688,Process Creation,Suspicious process created: cmd.exe /c net user TEMP_ADMIN /add.
+2025-06-27,22:10:06,Warning,Network,4625,Logon,Failed logon attempt for account TEMP_ACC_008.
+2025-06-27,22:17:23,Information,Security,4624,Logon,User USER_017 successfully logged in.
+2025-06-27,22:21:12,Warning,Network,4624,Logon,User USER_002 successfully logged in.
+2025-06-27,23:22:48,Critical,Network,4624,Logon,User USER_013 successfully logged in.

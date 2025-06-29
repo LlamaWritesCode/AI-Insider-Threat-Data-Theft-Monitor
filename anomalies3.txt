@@ -1,0 +1,31 @@
+Date,Time,LogLevel,Source,EventID,EventType,Message
+2025-06-28,16:21:04,WARNING,Security,4688,ProcessCreation,Suspicious process created: curl.exe to exfiltrate files.
+2025-06-28,16:29:04,WARNING,Security,4740,AccountLocked,Account TEMP_ACC_006 locked due to brute force attempts.
+2025-06-28,16:27:04,WARNING,Security,4740,AccountLocked,Account TEMP_ACC_003 locked due to brute force attempts.
+2025-06-28,16:36:04,WARNING,Security,4625,LogonFailed,Failed logon attempt for account TEMP_ACC_003.
+2025-06-28,17:01:04,WARNING,Security,4740,AccountLocked,Account TEMP_ACC_006 locked due to brute force attempts.
+2025-06-28,17:06:04,WARNING,Security,4740,AccountLocked,Account TEMP_ACC_002 locked due to brute force attempts.
+2025-06-28,17:21:04,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/IT/system_config.conf.
+2025-06-28,16:35:04,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_4.
+2025-06-28,17:25:04,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP 203.0.113.45.
+2025-06-28,16:39:04,WARNING,Security,4740,AccountLocked,Account TEMP_ACC_004 locked due to brute force attempts.
+2025-06-28,17:31:04,WARNING,Security,4625,LogonFailed,Failed logon attempt for account TEMP_ACC_006.
+2025-06-28,18:11:04,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_3 added without approval.
+2025-06-28,16:33:04,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_3 added without approval.
+2025-06-28,17:13:04,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP 203.0.113.45.
+2025-06-28,17:59:04,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/Legal/contracts.docx.
+2025-06-28,16:51:04,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/Finance/Q3_Budget.xlsx.
+2025-06-28,19:01:04,WARNING,Security,4740,AccountLocked,Account TEMP_ACC_009 locked due to brute force attempts.
+2025-06-28,18:03:04,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_2.
+2025-06-28,19:21:04,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_2.
+2025-06-28,19:31:04,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_3.
+2025-06-28,18:01:04,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_1.
+2025-06-28,18:06:04,WARNING,Security,4625,LogonFailed,Failed logon attempt for account TEMP_ACC_003.
+2025-06-28,19:39:04,WARNING,Security,4740,AccountLocked,Account TEMP_ACC_002 locked due to brute force attempts.
+2025-06-28,20:11:04,WARNING,Security,4672,SpecialLogon,Special privileges assigned to system operator SYS_OP_04.
+2025-06-28,17:33:04,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP 192.0.2.1.
+2025-06-28,17:36:04,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP 203.0.113.45.
+2025-06-28,17:39:04,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_1 added without approval.
+2025-06-28,17:15:04,WARNING,Security,4672,SpecialLogon,Special privileges assigned to system operator SYS_OP_03.
+2025-06-28,20:33:04,WARNING,Security,4672,SpecialLogon,Special privileges assigned to system operator SYS_OP_02.
+2025-06-28,19:15:04,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/HR/employee_records.xlsx.

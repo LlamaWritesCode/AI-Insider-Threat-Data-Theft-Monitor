@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 import json
 from datetime import datetime
-
+from agent import main, result
 # Set page config
 st.set_page_config(
     page_title="AI Insider Threat Monitor",
@@ -44,63 +44,10 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Properly formatted JSON data with escaped backslashes
-agent_response = r'''[
-  {
-    "incident_id": "INC20250628-001",
-    "summary": "On June 28, 2025, at 02:22:48, user 'Intern' launched an unusual PowerShell script. Risk Level: Medium. Recommended Action: Notify security team.",
-    "risk_level": "Medium",
-    "recommended_action": "Notify security team",
-    "details": {
-      "user": "Intern",
-      "event": "2025-06-28,02:22:48,Warning,Security,4688,Process Creation,User Intern launched an unusual PowerShell script.",
-      "timestamp": "2025-06-28 02:22:48"
-    }
-  },
-  {
-    "incident_id": "INC20250628-002",
-    "summary": "On June 28, 2025, at 03:09:22, user account 'Intern' was locked out. Risk Level: Medium. Recommended Action: Suspend user access and investigate.",
-    "risk_level": "Medium",
-    "recommended_action": "Suspend user access and investigate",
-    "details": {
-      "user": "Intern",
-      "event": "2025-06-28,03:09:22,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.",
-      "timestamp": "2025-06-28 03:09:22"
-    }
-  },
-  {
-    "incident_id": "INC20250628-006",
-    "summary": "On June 28, 2025, at 05:55:18, a suspicious connection was made to IP: 198.51.100.45 by 'Intern'. Risk Level: High. Recommended Action: Suspend user access and investigate.",
-    "risk_level": "High",
-    "recommended_action": "Suspend user access and investigate",
-    "details": {
-      "user": "Intern",
-      "event": "2025-06-28,05:55:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.45 by Intern.",
-      "timestamp": "2025-06-28 05:55:18"
-    }
-  },
-  {
-    "incident_id": "INC20250628-008",
-    "summary": "On June 28, 2025, at 02:13:53, a suspicious connection was made to IP: 203.0.113.45 by 'JSmith'. Risk Level: High. Recommended Action: Suspend user access and investigate.",
-    "risk_level": "High",
-    "recommended_action": "Suspend user access and investigate",
-    "details": {
-      "user": "JSmith",
-      "event": "2025-06-28,02:13:53,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.45 by JSmith.",
-      "timestamp": "2025-06-28 02:13:53"
-    }
-  },
-  {
-    "incident_id": "INC20250628-009",
-    "summary": "On June 28, 2025, at 00:04:22, user 'Intern' accessed the sensitive file 'EmployeeData.xlsx'. Risk Level: Medium. Recommended Action: Notify security team.",
-    "risk_level": "Medium",
-    "recommended_action": "Notify security team",
-    "details": {
-      "user": "Intern",
-      "event": "2025-06-28,00:04:22,Warning,Security,4663,File Access,File accessed: C:\\\\HR\\\\EmployeeData.xlsx by Intern.",
-      "timestamp": "2025-06-28 00:04:22"
-    }
-  }
-]'''
+main()
+agent_response = result
+  
+
 
 def process_agent_response(json_data):
     """Process the JSON response from the agent into a DataFrame"""

@@ -1,21 +1,21 @@
 Date,Time,LogLevel,Source,EventID,EventType,Message
 2025-06-28,16:20:46,WARNING,Security,4688,ProcessCreation,Suspicious process created: curl.exe to exfiltrate files.
-2025-06-28,16:22:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/Finance/Q3_Budget.xlsx.
-2025-06-28,16:32:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/Finance/Q3_Budget.xlsx.
+2025-06-28,16:22:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/[REDACTED_FILE]
+2025-06-28,16:32:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/[REDACTED_FILE]
 2025-06-28,16:44:46,WARNING,Security,4672,SpecialLogon,Special privileges assigned to system operator SYS_OP_03.
-2025-06-28,16:28:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/Legal/contracts.docx.
+2025-06-28,16:28:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/[REDACTED_FILE]
 2025-06-28,16:40:46,WARNING,Security,4688,ProcessCreation,Suspicious process created: cmd.exe /c net user TEMP_ADMIN /add.
-2025-06-28,17:02:46,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP 203.0.113.45.
+2025-06-28,17:02:46,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP [REDACTED_IP].
 2025-06-28,17:09:46,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_1.
 2025-06-28,16:52:46,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_2.
 2025-06-28,17:14:46,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_3.
-2025-06-28,17:40:46,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP 192.0.2.1.
+2025-06-28,17:40:46,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP [REDACTED_IP].
 2025-06-28,18:10:46,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_1.
-2025-06-28,16:32:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/Legal/contracts.docx.
+2025-06-28,16:32:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/[REDACTED_FILE]
 2025-06-28,17:51:46,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_2 added without approval.
 2025-06-28,17:44:46,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_3 added without approval.
 2025-06-28,17:35:46,WARNING,Security,4688,ProcessCreation,Suspicious process created: powershell.exe with suspicious encoded command.
-2025-06-28,19:00:46,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP 198.51.100.25.
+2025-06-28,19:00:46,WARNING,Security,36887,Cryptography,Suspicious encrypted connection to external IP [REDACTED_IP].
 2025-06-28,18:02:46,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_4 added without approval.
 2025-06-28,18:44:46,WARNING,Security,4625,LogonFailed,Failed logon attempt for account TEMP_ACC_002.
 2025-06-28,19:11:46,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_3.
@@ -23,9 +23,9 @@ Date,Time,LogLevel,Source,EventID,EventType,Message
 2025-06-28,18:05:46,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_4.
 2025-06-28,18:10:46,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_4 added without approval.
 2025-06-28,17:29:46,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_3 added without approval.
-2025-06-28,18:44:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/IT/system_config.conf.
+2025-06-28,18:44:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/[REDACTED_FILE]
 2025-06-28,18:50:46,WARNING,Security,4672,SpecialLogon,Special privileges assigned to system operator SYS_OP_03.
-2025-06-28,20:14:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/Legal/contracts.docx.
+2025-06-28,20:14:46,WARNING,Security,4663,ObjectAccess,Unauthorized access attempt on sensitive file: /data/[REDACTED_FILE]
 2025-06-28,19:29:46,WARNING,Security,1102,AuditCleared,Security audit log cleared by user TEMP_ADMIN_2.
 2025-06-28,19:08:46,WARNING,Security,4688,ProcessCreation,Suspicious process created: curl.exe to exfiltrate files.
 2025-06-28,19:43:46,WARNING,Security,4720,UserCreated,Temporary admin account TEMP_ADMIN_1 added without approval.

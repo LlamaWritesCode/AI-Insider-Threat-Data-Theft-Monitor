@@ -1,0 +1,12 @@
+2025-06-28,08:30:05,Information,Security,4624,Logon,User JaneSmith logged on successfully.
+2025-06-28,08:31:15,Information,Security,4672,Special Logon,Special privileges assigned to new logon. User: JaneSmith.
+2025-06-28,08:35:40,Information,Security,4663,Object Access,User JaneSmith accessed internal wiki for project details.
+2025-06-28,08:50:22,Information,Security,4663,Object Access,User JaneSmith opened CRM application to update client records.
+2025-06-28,09:15:30,Information,Security,4663,Object Access,User JaneSmith edited sales forecast spreadsheet: \Server\Sales\Forecast_2025.xlsx.
+2025-06-28,10:05:12,Information,Security,4663,Object Access,User JaneSmith accessed shared presentation: \Server\Marketing\Product_Launch_Deck.pptx.
+2025-06-28,12:01:10,Information,Security,4634,Logoff,User JaneSmith logged off for lunch.
+2025-06-28,13:05:00,Information,Security,4624,Logon,User JaneSmith logged back in after lunch.
+2025-06-28,13:10:45,Information,Security,4663,Object Access,User JaneSmith resumed editing Sales_Forecast_2025.xlsx.
+2025-06-28,14:30:18,Information,Security,4663,Object Access,User JaneSmith downloaded a training manual from the company intranet.
+2025-06-28,15:55:07,Information,Security,4663,Object Access,User JaneSmith saved updates to \Server\Sales\Forecast_2025.xlsx.
+2025-06-28,17:00:15,Information,Security,4634,Logoff,User JaneSmith logged off and ended session.

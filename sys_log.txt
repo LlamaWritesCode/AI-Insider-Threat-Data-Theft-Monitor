@@ -1,0 +1,30 @@
+2025-06-28,00:15:43,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,00:37:19,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,01:02:10,Information,Security,4663,File Access,File accessed: C:\Finance\Forecast.xlsx by JSmith.
+2025-06-28,01:44:29,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,02:22:48,Warning,Security,4688,Process Creation,User Intern launched an unusual PowerShell script.
+2025-06-28,03:09:22,Error,Security,4740,Account Lockout,A user account was locked out. Account: Intern.
+2025-06-28,03:58:13,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,04:23:35,Information,Security,4663,File Access,File accessed: C:\Engineering\Specs.docx by MLopez.
+2025-06-28,05:11:42,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,05:55:18,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 198.51.100.45 by Intern.
+2025-06-28,06:04:51,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,06:45:02,Information,Security,4663,File Access,File accessed: C:\Projects\Phase1.docx by JSmith.
+2025-06-28,07:12:43,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,08:30:10,Information,Security,4663,File Access,File accessed: C:\HR\Confidential.pdf by Intern.
+2025-06-28,09:15:55,Warning,Security,4688,Process Creation,User Intern launched a suspicious process.
+2025-06-28,10:01:09,Error,Security,1102,Audit Log Cleared,The audit log was cleared by user Intern.
+2025-06-28,10:49:34,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,11:22:20,Information,Security,4663,File Access,File accessed: C:\Finance\Payroll.xlsx by Admin.
+2025-06-28,12:37:48,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,13:10:29,Information,Security,4663,File Access,File accessed: C:\Marketing\Plans.docx by MLopez.
+2025-06-28,14:28:02,Information,Security,4624,Logon,A logon was successfully performed. User: JSmith.
+2025-06-28,15:05:15,Information,Security,4663,File Access,File accessed: C:\Engineering\DesignV2.pdf by JSmith.
+2025-06-28,16:11:03,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 203.0.113.88 by Intern.
+2025-06-28,17:20:40,Information,Security,4624,Logon,A logon was successfully performed. User: Admin.
+2025-06-28,18:07:19,Information,Security,4663,File Access,File accessed: C:\Finance\Reports.docx by Admin.
+2025-06-28,19:32:50,Information,Security,4624,Logon,A logon was successfully performed. User: MLopez.
+2025-06-28,20:03:12,Error,Security,36887,Suspicious Connection,A suspicious connection was made to IP: 192.0.2.22 by MLopez.
+2025-06-28,21:18:33,Information,Security,4624,Logon,A logon was successfully performed. User: Intern.
+2025-06-28,22:11:27,Information,Security,4663,File Access,File accessed: C:\HR\EmployeeData.xlsx by Intern.
+2025-06-28,23:45:55,Error,Security,4740,Account Lockout,A user account was locked out. Account: JSmith.

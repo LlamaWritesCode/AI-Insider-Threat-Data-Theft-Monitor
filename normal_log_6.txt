@@ -1,0 +1,101 @@
+Date,Time,LogLevel,Source,EventID,EventType,Message
+2025-06-28,08:01:00,Information,Security,4624,Logon,User KRivera Special privileges assigned to new logon.
+2025-06-28,08:29:00,Information,Security,4672,Special Logon,User AJackson saved updates to \\Server\Sales\Forecast_2025.xlsx
+2025-06-28,08:37:00,Information,Security,4624,Logon,User AJackson logged off and ended session.
+2025-06-28,08:40:00,Information,Security,4624,Logon,User JaneSmith opened CRM application to update client records.
+2025-06-28,08:49:00,Information,Security,4634,Logoff,User MLopez logged off and ended session.
+2025-06-28,09:14:00,Information,Security,4634,Logoff,User AJackson accessed internal wiki for project details.
+2025-06-28,09:43:00,Information,Security,4672,Special Logon,User JaneSmith logged on successfully.
+2025-06-28,10:00:00,Information,Security,4624,Logon,User MLopez saved updates to \\Server\Legal\Contract_Template.docx
+2025-06-28,10:08:00,Information,Security,4624,Logon,User JohnDoe resumed editing \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-28,10:37:00,Information,Security,4624,Logon,User JaneSmith saved updates to \\Server\Sales\Forecast_2025.xlsx
+2025-06-28,11:02:00,Information,Security,4663,Object Access,User MLopez logged back in after lunch.
+2025-06-28,11:21:00,Information,Security,4663,Object Access,User JaneSmith opened CRM application to update client records.
+2025-06-28,11:39:00,Information,Security,4634,Logoff,User KRivera accessed internal wiki for project details.
+2025-06-28,11:59:00,Information,Security,4634,Logoff,User JaneSmith saved updates to \\Server\HR\Employee_Handbook.pdf
+2025-06-28,12:27:00,Information,Security,4663,Object Access,User JohnDoe edited sales forecast spreadsheet \\Server\Finance\Q2_Report.xlsx
+2025-06-28,12:52:00,Information,Security,4624,Logon,User AJackson accessed internal wiki for project details.
+2025-06-28,13:03:00,Information,Security,4624,Logon,User JaneSmith accessed shared presentation \\Server\Sales\Forecast_2025.xlsx
+2025-06-28,13:22:00,Information,Security,4663,Object Access,User AJackson edited sales forecast spreadsheet \\Server\HR\Employee_Handbook.pdf
+2025-06-28,13:37:00,Information,Security,4634,Logoff,User JohnDoe logged back in after lunch.
+2025-06-28,13:43:00,Information,Security,4663,Object Access,User JohnDoe saved updates to \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-28,13:50:00,Information,Security,4634,Logoff,User JaneSmith logged off for lunch.
+2025-06-28,14:12:00,Information,Security,4663,Object Access,User KRivera Special privileges assigned to new logon.
+2025-06-28,14:32:00,Information,Security,4672,Special Logon,User AJackson logged off for lunch.
+2025-06-28,14:44:00,Information,Security,4672,Special Logon,User KRivera logged back in after lunch.
+2025-06-28,14:53:00,Information,Security,4672,Special Logon,User JohnDoe accessed internal wiki for project details.
+2025-06-28,14:59:00,Information,Security,4672,Special Logon,User JohnDoe logged off for lunch.
+2025-06-28,15:10:00,Information,Security,4624,Logon,User JaneSmith logged on successfully.
+2025-06-28,15:33:00,Information,Security,4663,Object Access,User KRivera accessed internal wiki for project details.
+2025-06-28,15:43:00,Information,Security,4663,Object Access,User KRivera Special privileges assigned to new logon.
+2025-06-28,15:59:00,Information,Security,4624,Logon,User MLopez accessed internal wiki for project details.
+2025-06-28,16:26:00,Information,Security,4663,Object Access,User MLopez accessed internal wiki for project details.
+2025-06-28,16:52:00,Information,Security,4624,Logon,User AJackson resumed editing \\Server\Finance\Q2_Report.xlsx
+2025-06-28,17:02:00,Information,Security,4634,Logoff,User JaneSmith opened CRM application to update client records.
+2025-06-28,17:29:00,Information,Security,4634,Logoff,User JaneSmith resumed editing \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-28,17:47:00,Information,Security,4672,Special Logon,User MLopez logged back in after lunch.
+2025-06-28,18:02:00,Information,Security,4624,Logon,User JaneSmith logged off for lunch.
+2025-06-28,18:04:00,Information,Security,4672,Special Logon,User KRivera accessed shared presentation \\Server\Legal\Contract_Template.docx
+2025-06-28,18:34:00,Information,Security,4663,Object Access,User JaneSmith logged off for lunch.
+2025-06-28,18:44:00,Information,Security,4624,Logon,User MLopez accessed shared presentation \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-28,18:58:00,Information,Security,4634,Logoff,User MLopez logged off for lunch.
+2025-06-28,19:15:00,Information,Security,4624,Logon,User KRivera accessed shared presentation \\Server\Sales\Forecast_2025.xlsx
+2025-06-28,19:40:00,Information,Security,4672,Special Logon,User JohnDoe resumed editing \\Server\Sales\Forecast_2025.xlsx
+2025-06-28,19:48:00,Information,Security,4663,Object Access,User MLopez saved updates to \\Server\Legal\Contract_Template.docx
+2025-06-28,20:17:00,Information,Security,4663,Object Access,User KRivera logged off for lunch.
+2025-06-28,20:30:00,Information,Security,4663,Object Access,User JaneSmith opened CRM application to update client records.
+2025-06-28,20:31:00,Information,Security,4672,Special Logon,User AJackson logged off for lunch.
+2025-06-28,20:45:00,Information,Security,4624,Logon,User MLopez edited sales forecast spreadsheet \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-28,20:59:00,Information,Security,4634,Logoff,User JohnDoe Special privileges assigned to new logon.
+2025-06-28,21:10:00,Information,Security,4663,Object Access,User JohnDoe saved updates to \\Server\Sales\Forecast_2025.xlsx
+2025-06-28,21:31:00,Information,Security,4624,Logon,User MLopez resumed editing \\Server\Finance\Q2_Report.xlsx
+2025-06-28,21:49:00,Information,Security,4634,Logoff,User KRivera edited sales forecast spreadsheet \\Server\Legal\Contract_Template.docx
+2025-06-28,21:58:00,Information,Security,4634,Logoff,User JaneSmith saved updates to \\Server\HR\Employee_Handbook.pdf
+2025-06-28,22:28:00,Information,Security,4663,Object Access,User JaneSmith edited sales forecast spreadsheet \\Server\Finance\Q2_Report.xlsx
+2025-06-28,22:56:00,Information,Security,4624,Logon,User AJackson downloaded a training manual from the company intranet.
+2025-06-28,23:20:00,Information,Security,4663,Object Access,User JohnDoe logged off for lunch.
+2025-06-28,23:33:00,Information,Security,4663,Object Access,User MLopez logged on successfully.
+2025-06-28,23:58:00,Information,Security,4672,Special Logon,User KRivera logged on successfully.
+2025-06-29,00:01:00,Information,Security,4672,Special Logon,User KRivera Special privileges assigned to new logon.
+2025-06-29,00:28:00,Information,Security,4624,Logon,User AJackson edited sales forecast spreadsheet \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-29,00:44:00,Information,Security,4663,Object Access,User MLopez accessed internal wiki for project details.
+2025-06-29,01:13:00,Information,Security,4624,Logon,User MLopez edited sales forecast spreadsheet \\Server\Legal\Contract_Template.docx
+2025-06-29,01:38:00,Information,Security,4634,Logoff,User JohnDoe accessed internal wiki for project details.
+2025-06-29,01:42:00,Information,Security,4663,Object Access,User KRivera logged back in after lunch.
+2025-06-29,01:43:00,Information,Security,4634,Logoff,User KRivera Special privileges assigned to new logon.
+2025-06-29,01:59:00,Information,Security,4672,Special Logon,User JaneSmith saved updates to \\Server\Legal\Contract_Template.docx
+2025-06-29,02:17:00,Information,Security,4624,Logon,User JohnDoe logged off and ended session.
+2025-06-29,02:40:00,Information,Security,4624,Logon,User MLopez downloaded a training manual from the company intranet.
+2025-06-29,03:02:00,Information,Security,4634,Logoff,User AJackson logged back in after lunch.
+2025-06-29,03:18:00,Information,Security,4634,Logoff,User AJackson downloaded a training manual from the company intranet.
+2025-06-29,03:26:00,Information,Security,4663,Object Access,User KRivera saved updates to \\Server\Legal\Contract_Template.docx
+2025-06-29,03:49:00,Information,Security,4663,Object Access,User JohnDoe logged back in after lunch.
+2025-06-29,03:57:00,Information,Security,4634,Logoff,User JohnDoe edited sales forecast spreadsheet \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-29,04:16:00,Information,Security,4634,Logoff,User KRivera accessed shared presentation \\Server\Marketing\Product_Launch_Deck.pptx
+2025-06-29,04:44:00,Information,Security,4672,Special Logon,User JohnDoe logged back in after lunch.
+2025-06-29,05:06:00,Information,Security,4663,Object Access,User JohnDoe resumed editing \\Server\HR\Employee_Handbook.pdf
+2025-06-29,05:28:00,Information,Security,4634,Logoff,User KRivera logged off for lunch.
+2025-06-29,05:41:00,Information,Security,4663,Object Access,User KRivera logged on successfully.
+2025-06-29,05:56:00,Information,Security,4663,Object Access,User AJackson opened CRM application to update client records.
+2025-06-29,06:14:00,Information,Security,4624,Logon,User JohnDoe accessed shared presentation \\Server\Legal\Contract_Template.docx
+2025-06-29,06:35:00,Information,Security,4634,Logoff,User KRivera Special privileges assigned to new logon.
+2025-06-29,06:54:00,Information,Security,4634,Logoff,User JohnDoe downloaded a training manual from the company intranet.
+2025-06-29,07:18:00,Information,Security,4663,Object Access,User JohnDoe resumed editing \\Server\Sales\Forecast_2025.xlsx
+2025-06-29,07:19:00,Information,Security,4634,Logoff,User JohnDoe accessed internal wiki for project details.
+2025-06-29,07:47:00,Information,Security,4663,Object Access,User JaneSmith logged off for lunch.
+2025-06-29,08:16:00,Information,Security,4663,Object Access,User KRivera accessed internal wiki for project details.
+2025-06-29,08:39:00,Information,Security,4672,Special Logon,User MLopez logged on successfully.
+2025-06-29,08:43:00,Information,Security,4634,Logoff,User MLopez logged off for lunch.
+2025-06-29,09:03:00,Information,Security,4663,Object Access,User KRivera logged on successfully.
+2025-06-29,09:15:00,Information,Security,4624,Logon,User AJackson logged off and ended session.
+2025-06-29,09:27:00,Information,Security,4663,Object Access,User JohnDoe downloaded a training manual from the company intranet.
+2025-06-29,09:39:00,Information,Security,4663,Object Access,User MLopez saved updates to \\Server\HR\Employee_Handbook.pdf
+2025-06-29,09:42:00,Information,Security,4663,Object Access,User JaneSmith logged back in after lunch.
+2025-06-29,10:12:00,Information,Security,4672,Special Logon,User JaneSmith logged back in after lunch.
+2025-06-29,10:16:00,Information,Security,4672,Special Logon,User MLopez downloaded a training manual from the company intranet.
+2025-06-29,10:19:00,Information,Security,4624,Logon,User JaneSmith accessed internal wiki for project details.
+2025-06-29,10:40:00,Information,Security,4634,Logoff,User JohnDoe Special privileges assigned to new logon.
+2025-06-29,10:47:00,Information,Security,4663,Object Access,User JohnDoe logged off for lunch.
+2025-06-29,10:53:00,Information,Security,4634,Logoff,User AJackson logged on successfully.
+2025-06-29,11:11:00,Information,Security,4672,Special Logon,User JaneSmith resumed editing \\Server\HR\Employee_Handbook.pdf
+2025-06-29,11:24:00,Information,Security,4634,Logoff,User JaneSmith accessed internal wiki for project details.
