@@ -260,3 +260,4 @@ if not df.empty:
     st.markdown('</div>', unsafe_allow_html=True)
 else:
     st.error("No valid data to display. Please check the JSON input.")  
+    
