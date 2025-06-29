@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛡️ AI Insider Data Protection Dashboard
 
 A real-time security monitoring dashboard that uses IBM Watson AI to detect and analyze potential insider threats and data theft activities within organizations.
@@ -135,3 +136,6 @@ For support and questions:
 ## Disclaimer
 
 This tool is designed for educational and security research purposes. Always ensure you have proper authorization before monitoring any systems or networks. 
+=======
+# AI-Insider-Threat-Data-Theft-Monitor
+>>>>>>> 38d64f39c0553397944a4ddaf928c117912831ac
